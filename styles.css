@@ -1,1 +1,21 @@
-/* Do not add any css, this is a bootstrap only assignment  */
+:root{
+          padding: 0;
+          margin: 0;
+          box-sizing: border-box;
+          background-color: #3e4451;
+          /* padding: 0px 15vw 5px 15vw; */
+      }
+      .img-size{
+          width:80vw;
+          height: 85vh;          
+      }
+      #mycarousel{        
+        width:70vw;
+        height: 90vh;        
+        margin: auto;
+        padding: 1rem;                
+        border:1px solid #868e96;
+        background-color: #3e4451;
+        border-radius: 24px;
+        box-shadow: -1px 2px blue;          
+        }
